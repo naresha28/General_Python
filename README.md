@@ -1,2 +1,2 @@
 # General_Python
-These are small programs based on various python topics
+These programs are based on various python topics
