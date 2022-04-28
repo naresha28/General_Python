@@ -1,4 +1,4 @@
-# This program calculates some of the digits of a given number
+# This program calculates sum of the digits of a given number
 def sum_digits(n):
     summ = 0
     while (n>0):
