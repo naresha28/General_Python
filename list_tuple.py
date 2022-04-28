@@ -1,0 +1,6 @@
+values = input("Input values seperated by a comma : ")
+print(values)
+list1 = values.split(",")
+tuple1 = (*list1,)
+print('List : ',list1)
+print('Tuple : ',tuple1)
